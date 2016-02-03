@@ -1,3 +1,2 @@
-# Learn-to-Type
-GUI that mirrors the keyboard keys the user is pressing. Allows the user to type into a text area for practice. Then the user can start a test to see how accurate they can type the randomly chosen phrase.
-v  
+# Important
+There is a file.txt that is required for the application to run correctly... This was coded in the Eclipse IDE so, the application checks to see if there is a file in the following directory... src/file.txt
